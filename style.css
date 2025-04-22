@@ -2,12 +2,25 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
-body
-{
-font-family: Arial, Helvetica, sans-serif;
-margin: auto;
-padding: ;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding:0;
+}
+header{
+    
+    background-color: rgb(255, 187, 0);
+    display: flex;
+}
+.foto{
+    width: 80px;    
+    height: 80px;
+    background-color: rgb(255, 136, 0);
+    margin: 10px;
+}
+.texto-titulo{
 
 }

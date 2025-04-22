@@ -15,12 +15,26 @@ header{
     background-color: rgb(255, 187, 0);
     display: flex;
 }
-.foto{
+.foto.titulo{
     width: 80px;    
     height: 80px;
     background-color: rgb(255, 136, 0);
     margin: 10px;
 }
-.texto-titulo{
+hero{
 
 }
+.foto1{
+    width: 80px;    
+    height: 80px;
+    background-color: lightblue;
+    margin: 10px; 
+}
+.foto2{
+    width: 80px;    
+    height: 80px;
+    background-color: red;
+    margin: 10px; 
+}
+
+

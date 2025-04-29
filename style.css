@@ -91,6 +91,17 @@
     flex-direction: row;
   }
 
-  .tittle {
+  .tittle-footer {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #000000;
+    
+  }
+
+  .txtfooter
+  {
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: black;
 
   }
